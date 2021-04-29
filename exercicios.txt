@@ -18,7 +18,7 @@ $ node client.js
     entrada: { email: 'vpimkfs@ufhk.com.qo' },
     pontuacao: 0.5
   },
-  'jaca-wars':!!!!!!! {
+  'jaca-wars': {
     titulo: 'Jaca Wars!',
     descricao: 'Jaca Wars! Você mora no sítio, e está em guerra com seu vizinho. 
     Você dispõe de uma catapulta de lançamento de jacas e o seu alvo é a catapulta do vizinho, 
@@ -27,11 +27,11 @@ $ node client.js
     Para a velocidade v e o ângulo theta, em graus, de lançamento da jaca, devolva :
     -1 se a jaca não chegou no alvo, 
     1 se passou do alvo 
-    e 0 se atingiu o alvo. 
+    e 0 se atingiu o alvo.
 
     Uma jaca quando cai se espalha por um raio de 2 metros. 
     Considere que a jaca acerta o alvo se cai à uma distância do alvo menor 
-    que o seu raio de espalhamento. 
+    que o seu raio de espalhamento.
     A fórmula da distância alcançada por um projétil 
     (na ausência de efeitos de arrasto da atmosfera) é: 
     v^2 sen(2 theta) / g, onde g vale 9,8 m/s^2.',
@@ -69,7 +69,7 @@ $ node client.js
     entrada: { objeto: [Object] },
     pontuacao: 0.5
   },
-  'n-esimo-primo': {
+  'n-esimo-primo':!!!!!!!!! {
     titulo: 'Encontra o n-ésimo número primo',
     descricao: 'Qual é o n-ésimo número primo? Se n = 1, a resposta é 2, se n = 5, a resposta é 11.',
     entrada: { n: 451 },
